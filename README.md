@@ -1,0 +1,2 @@
+# Covid-19_Global_numbers
+This project is based on Global data on confirmed Covid-19 deaths and Vaccination drives. The data is taken from Ourworldindata.org and the project is focused on Exploratory data analysis. For the purpose of this project, I've Divided the dataset into two tables Covid_deaths and Covid_vaccinations and will be exploring these two tables and also performing JOIN functions to Join them for Combine analysis.
